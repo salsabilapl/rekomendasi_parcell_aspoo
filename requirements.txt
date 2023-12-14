@@ -1,6 +1,5 @@
 streamlit
 pandas
 ortools==9.2.9972
-random
 numpy
 base64 
