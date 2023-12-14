@@ -1,7 +1,6 @@
 streamlit
 pandas
-ortools.linear_solver
-pywraplp
+ortools==9.2.9972
 random
 numpy
 base64 
