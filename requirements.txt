@@ -2,4 +2,3 @@ streamlit
 pandas
 ortools==9.2.9972
 numpy
-base64 
